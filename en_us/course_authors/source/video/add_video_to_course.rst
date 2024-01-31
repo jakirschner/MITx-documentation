@@ -35,22 +35,17 @@ To copy the video ID, follow these steps.
 
 #. Open the course in Studio.
 
-#. On the **Content** menu, select **Video Uploads**.
+#. On the **Content** menu, select **Videos**.
 
-#. In the **Previous Uploads** list, locate the video that you want to
-   include in the course.
+#. Locate the video that you want to include in the course.
 
-#. Select the value in the **Video ID** column for the video. The video ID
+#. Click on the three dot menu, the select "Copy video ID".  The video ID
    is assigned when you upload a video.
 
-#. Right-click the value, and then select **Copy**. Be sure to copy the
-   entire video ID value.
-
 Note that the course team can add a video to their course as soon as the
-unique video ID is visible in the **Previous Uploads** list on the **Video
-Uploads** page. However, for a video to play successfully, the status for
-the file must be “Ready”. Processing takes 24 hours to complete for all
-encodings and all video hosting sites.
+unique video ID is visible on the **Videos** page. However, for a video to 
+play successfully, the status for the file must be “Ready”. Processing 
+takes 24 hours to complete for all encodings and all video hosting sites.
 
 You can also :ref:`download a report<Reporting Video Status>` of all uploaded
 videos. The report includes the video ID for every uploaded file.
